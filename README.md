@@ -23,3 +23,4 @@
   <img src="menu.svg" alt="Menú del Restaurante">
 </body>
 </html>
+![menu](https://github.com/user-attachments/assets/2e944f68-1ada-4378-a840-307cd87b69b1)
